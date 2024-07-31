@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhananji22
+- 👋 Hi, I’m Isurika Dhananji
 - 👀 I’m interested in Frontend developmwnt and software testing
 - 🌱 I’m currently undergraduate
 - 💞️ I’m looking to collaborate on ...
